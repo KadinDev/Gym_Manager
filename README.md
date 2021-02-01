@@ -14,17 +14,6 @@
 - e mais
 
 
-## Testing
-> get the project
-
-    git clone https://github.com/KadinDev/Gym_Manager.git
-   
-> install dependencies 
-> 
-    npm install
-> run project
-
-    npm start
 
 [Veja o video](https://www.youtube.com/watch?v=xC7UB712Fl4)
 ☕️ ❤️
